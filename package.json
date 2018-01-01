@@ -1,0 +1,16 @@
+{
+  "name": "rg-client-assets",
+  "version": "1.0.0",
+  "description": "Assets for rg-client",
+  "main": "",
+  "scripts": {
+  	"host": "http-server -p 8000 --cors ./assets"
+  },
+  "repository": "https://github.com/ogapo/rg-client-assets.git",
+  "author": "David Nikdel <david.nikdel@gmail.com>",
+  "license": "NONE",
+  "private": true,
+  "devDependencies": {
+    "http-server": "^0.10.0"
+  }
+}

@@ -1,0 +1,3 @@
+AUTHOR: Fabian Orrego (https://sketchfab.com/fabian_orrego)
+SOURCE: https://sketchfab.com/models/ed8286fb60f84ffdbb15acaf30128dd3
+LICENSE: https://creativecommons.org/licenses/by/4.0/
