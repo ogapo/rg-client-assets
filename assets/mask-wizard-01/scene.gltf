@@ -178,62 +178,19 @@
   ],
   "nodes": [
     {
-      "children": [
-        1
-      ],
-      "name": "RootNode (gltf orientation matrix)",
-      "rotation": [
-        -0.70710678118654746,
-        -0,
-        -0,
-        0.70710678118654757
-      ]
-    },
-    {
-      "children": [
-        2
-      ],
-      "name": "RootNode (model correction matrix)"
-    },
-    {
-      "children": [
-        3
-      ],
-      "name": "Root"
-    },
-    {
-      "children": [
-        4
-      ],
-      "matrix": [
-        1,
-        0,
-        0,
-        0,
-        0,
-        1,
-        0,
-        0,
-        0,
-        0,
-        1,
-        0,
-        -1.7400800000000003,
-        -15.485680000000002,
-        0,
-        1
-      ],
-      "name": "DragonHunterWizard"
-    },
-    {
-      "children": [
-        5
-      ],
-      "name": "Geode"
-    },
-    {
       "mesh": 0,
-      "name": "DragonHunterWizard_0"
+      "name": "DragonHunterWizard_0",
+      "rotation": [
+        0,
+        0,
+        -1,
+        0
+      ],
+      "scale": [
+        100,
+        100,
+        100
+      ]
     }
   ],
   "samplers": [

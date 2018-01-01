@@ -4,7 +4,7 @@
   "description": "Assets for rg-client",
   "main": "",
   "scripts": {
-  	"host": "http-server -p 8000 --cors ."
+  	"host": "http-server -p 8000 --cors -c-1 ."
   },
   "repository": "https://github.com/ogapo/rg-client-assets.git",
   "author": "David Nikdel <david.nikdel@gmail.com>",
